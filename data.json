@@ -1,0 +1,28 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "title": "Eternals"
+        },
+        {
+            "id": 2,
+            "title": "Venom: Habrá matanza"
+        },
+        {
+            "id": 3,
+            "title": "Star Wars: Chapter I"
+        },
+        {
+            "id": 4,
+            "title": "Toy Story"
+        },
+        {
+            "id": 5,
+            "title": "Venom: Habrá matanza"
+        },
+        {
+            "id": 6,
+            "title": "Paw Patrol: The movie"
+        }
+    ]
+}
