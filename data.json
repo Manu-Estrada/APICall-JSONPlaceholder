@@ -2,27 +2,33 @@
     "movies": [
         {
             "id": 1,
-            "title": "Eternals"
+            "title": "Eternals",
+            "img": "https://pics.filmaffinity.com/eternals-388789083-mmed.jpg"
         },
         {
             "id": 2,
-            "title": "Venom: Habrá matanza"
+            "title": "Venom: Habrá matanza",
+            "img": "https://pics.filmaffinity.com/venom_let_there_be_carnage-797643212-mmed.jpg"
         },
         {
             "id": 3,
-            "title": "Star Wars: Chapter I"
+            "title": "Star Wars: Chapter I",
+            "img": "https://pics.filmaffinity.com/star_wars_episode_i_the_phantom_menace-434398792-mmed.jpg"
         },
         {
             "id": 4,
-            "title": "Toy Story"
+            "title": "Toy Story",
+            "img": "https://pics.filmaffinity.com/toy_story-626273371-mmed.jpg"
         },
         {
             "id": 5,
-            "title": "Venom: Habrá matanza"
+            "title": "Jumanji",
+            "img": "https://pics.filmaffinity.com/jumanji-949356621-mmed.jpg"
         },
         {
             "id": 6,
-            "title": "Paw Patrol: The movie"
+            "title": "Paw Patrol: The movie",
+            "img": "https://pics.filmaffinity.com/paw_patrol_the_movie-626479283-mmed.jpg"
         }
     ]
 }
