@@ -1,0 +1,24 @@
+
+
+table {
+    border-collapse: collapse;
+  }
+  th, td {
+    border: 1px solid #b99595;
+    text-align: left;
+    padding: 8px;
+    background-color: rgb(195, 177, 154);
+  }
+  p {
+    background-color: rgba(107, 241, 168, 0.267);
+  }
+button {
+    background-color: rgb(243, 195, 81);
+    cursor: pointer;
+
+}
+button:hover {
+ 
+    color: white;
+    background-color: black;
+}
